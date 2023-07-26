@@ -1,0 +1,32 @@
+{
+
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+
+"Version":"1.1",
+
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+
+"Url":"https://github.com/Aungminvip/vpn/raw/main/vpn.zip?raw=true" ,
+
+"Changelog":"
+
+မ ဂင်္လာပါ 
+
+ TRUE & DTAC 25ဖိုင်ထည့်ပေထားဘာတယ်
+",
+
+//ไม่ต้องยุ่งด้านล่าง
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+  "-Demo"
+
+    ]
+
+    }
